@@ -6,6 +6,7 @@
 At present, 42 by 9 defines ten resolutions:
 
 | ID | Horizontal Pixel Count | Vertical Pixel Count |
+| -- | ---------------------- | -------------------- |
 | 0  | 5040                   | 1080                 |
 | 0  | 6720                   | 1440                 |
 | 0  | 10080                  | 2160                 |
@@ -22,14 +23,16 @@ At present, 42 by 9 defines ten resolutions:
 At present, 21 by 9 defines six resolutions:
 
 | ID | Horizontal Pixel Count | Vertical Pixel Count |
+| -- | ---------------------- | -------------------- |
 | 0  | 2520                   | 1080                 |
 | 0  | 3360                   | 1440                 |
 | 0  | 5040                   | 2160                 |
 | 0  | 6720                   | 2880                 |
 | 0  | 10080                  | 4320                 |
-| 0  |                   | 5760                 |
+| 0  | 13440                  | 5760                 |
 
-21 by 9 was [my](https://tiwtter.com/MaX_MSD) first display resolution project. I, [MaX](https://tiwtter.com/MaX_MSD), love 21 by 9. I was trying to build an monitor array with eight 34 inch 21 by 9 6720 by 2880 displays in a two by four (two vertically, four horizontally).
+21 by 9 was [my](https://tiwtter.com/MaX_MSD) first display resolution project.
+I, [MaX](https://tiwtter.com/MaX_MSD), love 21 by 9. I was trying to build an monitor array with eight 34 inch 21 by 9 6720 by 2880 displays in a two by four (two vertically, four horizontally).
 
 The overall monitor array would be (21 * 4) by (9 * 2), which can be simplified to 42 by 9, which can be simplified to 14 by 3.
 I realised it would be possible to build all eight displays into one enclosure, which migrated into the 42 by 9 project.
