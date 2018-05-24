@@ -1,9 +1,6 @@
 # 42by9
 
-#42by9 - 42:9 Resolution
-
-42 by 9 is the same as 14 by 3.
-At present, 42 by 9 defines ten resolutions:
+# 42by9 - 42:9 Resolution
 
 | ID Micro | ID Short     | ID Full             | Horizontal Pixel Count | Vertical Pixel Count |
 | -------- | ------------ | ------------------- | ---------------------- | -------------------- |
@@ -24,18 +21,19 @@ At present, 42 by 9 defines ten resolutions:
 | 42by9-15 | 42by9-138240 | 42by9-645120-138240 | 645,120                | 138,240              |
 | 42by9-16 | 42by9-184320 | 42by9-860160-184320 | 860,160                | 184,320              |
 
-| 42 by 9 base x   | Horizontal Pixel Count | Vertical Pixel Count |
-| ---------------- | ---------------------- | -------------------- |
-| 42by9-base1000   | 42,000                 | 9,000                |
-| 42by9-base1024   | 43,008                 | 9,216                |
-| 42by9-base10000  | 420,000                | 90,000               |
-| 42by9-base16384  | 688,128                | 147,456              |
-| 42by9-base100000 | 4,200,000              | 900,000              |
-| 42by9-base131072 | 5,505,024              | 1,179,648            |
+| 42 by 9 base 1000 | Horizontal Pixel Count | Vertical Pixel Count |
+| ----------------- | ---------------------- | -------------------- |
+| 42by9-base1000    | 42,000                 | 9,000                |
+| 42by9-base10000   | 420,000                | 90,000               |
+| 42by9-base100000  | 4,200,000              | 900,000              |
 
-42 by 9 is built on the 21 by 9 project. 42 by 9 is horizontally double 21 by 9.
+| 42 by 9 base 1024 | Horizontal Pixel Count | Vertical Pixel Count |
+| ----------------- | ---------------------- | -------------------- |
+| 42by9-base1024    | 43,008                 | 9,216                |
+| 42by9-base16384   | 688,128                | 147,456              |
+| 42by9-base131072  | 5,505,024              | 1,179,648            |
 
-At present, 21 by 9 defines six resolutions:
+# 21by9 - 21:9 Resolution
 
 | ID Micro | ID Short    | ID Full           | Horizontal Pixel Count | Vertical Pixel Count |
 | -------- | ----------- | ----------------- | ---------------------- | -------------------- |
@@ -49,9 +47,3 @@ At present, 21 by 9 defines six resolutions:
 | 21by9-8  | 21by9-11520 | 21by9-26880-11520 | 26880                  | 11520                |
 | 21by9-9  | 21by9-17280 | 21by9-40320-17280 | 40320                  | 17280                |
 | 21by9-10 | 21by9-23040 | 21by9-53760-23040 | 53760                  | 23040                |
-
-21 by 9 was [my](https://tiwtter.com/MaX_MSD) first display resolution project.
-I, [MaX](https://tiwtter.com/MaX_MSD), love 21 by 9. I was trying to build an monitor array with eight 34 inch 21 by 9 6720 by 2880 displays in a two by four (two vertically, four horizontally).
-
-The overall monitor array would be (21 * 4) by (9 * 2), which can be simplified to 42 by 9, which can be simplified to 14 by 3.
-I realised it would be possible to build all eight displays into one enclosure, which migrated into the 42 by 9 project.
