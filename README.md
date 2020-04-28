@@ -33,6 +33,15 @@ At present, 42 by 9 defines ten resolutions:
 | 42by9-base100000 | 4,200,000              | 900,000              |
 | 42by9-base131072 | 5,505,024              | 1,179,648            |
 
+| 42 by 9 base x   | Horizontal Pixel Count | Vertical Pixel Count |
+| ---------------- | ---------------------- | -------------------- |
+| 42by9-base1000   | 42,000                 | 9,000                |
+| 42by9-base10000  | 420,000                | 90,000               |
+| 42by9-base100000 | 4,200,000              | 900,000              |
+| 42by9-base1024   | 43,008                 | 9,216                |
+| 42by9-base16384  | 688,128                | 147,456              |
+| 42by9-base131072 | 5,505,024              | 1,179,648            |
+
 42 by 9 is built on the 21 by 9 project. 42 by 9 is horizontally double 21 by 9.
 
 At present, 21 by 9 defines six resolutions:
